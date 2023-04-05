@@ -9,7 +9,7 @@
 Clone Project
 
 ```bash
-  git clone hhttps://github.com/abdulaziz-m5u/laravel-blog.git project_name
+  git clone https://github.com/abdulaziz-m5u/laravel-blog.git project_name
 ```
 
 <hr/>
